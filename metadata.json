@@ -6,14 +6,16 @@
     "MySQL Copy",
     "mysql_crud",
     "Assets-test.appsmith.com",
-    "Page1"
+    "smtpp",
+    "sample datasource"
   ],
   "publishedPageOrder": [
     "MySQL",
     "MySQL Copy",
     "mysql_crud",
     "Assets-test.appsmith.com",
-    "Page1"
+    "smtpp",
+    "sample datasource"
   ],
   "publishedDefaultPageName": "MySQL",
   "unpublishedDefaultPageName": "MySQL",
@@ -99,6 +101,14 @@
       "publishedUserSetOnLoad": true
     },
     "mysql_crud_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "sample datasource_Query1": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "smtpp_smtp": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
