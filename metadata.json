@@ -7,7 +7,11 @@
     "mysql_crud",
     "Assets-test.appsmith.com",
     "smtpp",
-    "sample datasource"
+    "sample datasource",
+    "JS",
+    "smtpp Copy",
+    "mysql_crud Copy",
+    "JS Copy"
   ],
   "publishedPageOrder": [
     "MySQL",
@@ -15,7 +19,11 @@
     "mysql_crud",
     "Assets-test.appsmith.com",
     "smtpp",
-    "sample datasource"
+    "sample datasource",
+    "JS",
+    "smtpp Copy",
+    "mysql_crud Copy",
+    "JS Copy"
   ],
   "publishedDefaultPageName": "MySQL",
   "unpublishedDefaultPageName": "MySQL",
@@ -37,6 +45,14 @@
       "publishedUserSetOnLoad": false
     },
     "Assets-test.appsmith.com_UpdateFile": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "JS Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "JS_JSObject1.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
@@ -88,6 +104,22 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "mysql_crud Copy_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "mysql_crud Copy_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "mysql_crud Copy_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "mysql_crud Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "mysql_crud_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
@@ -107,6 +139,10 @@
     "sample datasource_Query1": {
       "unpublishedUserSetOnLoad": true,
       "publishedUserSetOnLoad": true
+    },
+    "smtpp Copy_smtp": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     },
     "smtpp_smtp": {
       "unpublishedUserSetOnLoad": false,
